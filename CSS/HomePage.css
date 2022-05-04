@@ -16,7 +16,7 @@ a {
     text-decoration: none;
     vertical-align: middle;
     font-size: 40px;
-    margin: 15px;
+    margin: 35px;
     font-family: 'Open Sans', sans-serif;
 
 }
@@ -25,11 +25,9 @@ a {
     text-align: center;
 }
 
-.Logo1 {
-    text-align: left;
-}
-
 .Logo {
-    text-decoration: none;
     display: inline;
+    text-decoration: none;
+    float: left;
+    list-style-type: none;
 }
