@@ -1,0 +1,35 @@
+nav {
+    background-color: #4C5578;
+}
+
+.Links {
+    display: inline;
+    color: #fff;
+    text-decoration: none;
+    vertical-align: middle;
+
+}
+
+a {
+    display: inline-block;
+    color: #fff;
+    text-decoration: none;
+    vertical-align: middle;
+    font-size: 40px;
+    margin: 15px;
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+.Links1 {
+    text-align: center;
+}
+
+.Logo1 {
+    text-align: left;
+}
+
+.Logo {
+    text-decoration: none;
+    display: inline;
+}
