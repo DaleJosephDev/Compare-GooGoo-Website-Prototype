@@ -10,7 +10,7 @@ nav {
 
 }
 
-a {
+.NavBar {
     display: inline-block;
     color: #fff;
     text-decoration: none;
@@ -19,6 +19,16 @@ a {
     margin: 35px;
     font-family: 'Open Sans', sans-serif;
 
+}
+
+.NavBar:hover {
+    font-size: 50px;
+    color: #6F90E4;
+}
+
+.NavBar:Active {
+    font-size: 40px;
+    color: #5887FF;
 }
 
 .Links1 {
@@ -30,4 +40,37 @@ a {
     text-decoration: none;
     float: left;
     list-style-type: none;
+}
+
+.Title {
+    background-color: #4c5578;
+    color: #fff;
+    font-size: 36px;
+    text-align: center;
+    font-weight: 700;
+    font-family: 'Open Sans', sans-serif;
+    text-transform: uppercase;
+    display: inline-block;
+}
+
+.Post1 {
+    list-style-type: none;
+    display: inline-block;
+    text-align: left;
+}
+
+.Post {
+    float: left;
+}
+
+.Desc {
+    font-size: 20px;
+    text-align: left;
+}
+
+.LinkPost {
+    text-decoration: none;
+    color: #0057FF;
+    text-transform: capitalize;
+    text-align: center;
 }
