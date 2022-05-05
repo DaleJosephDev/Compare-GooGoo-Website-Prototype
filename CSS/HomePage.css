@@ -16,13 +16,15 @@ nav {
     text-decoration: none;
     vertical-align: middle;
     font-size: 40px;
-    margin: 35px;
+    margin: 10px;
     font-family: 'Open Sans', sans-serif;
+    padding-left: 50px;
+    padding-right: 50px;
 
 }
 
 .NavBar:hover {
-    font-size: 50px;
+    font-size: 30px;
     color: #6F90E4;
 }
 
@@ -40,6 +42,10 @@ nav {
     text-decoration: none;
     float: left;
     list-style-type: none;
+}
+
+.Logo1 {
+    padding-bottom: 100px;
 }
 
 .Title {
