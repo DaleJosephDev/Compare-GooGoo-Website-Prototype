@@ -2,6 +2,10 @@ nav {
     background-color: #4C5578;
 }
 
+table {
+    width: 100%
+}
+
 .Links {
     display: inline;
     color: #fff;
@@ -49,10 +53,12 @@ nav {
 }
 
 .Title {
+    text-align: center;
+    width: 347px;
+    border-radius: 15px;
     background-color: #4c5578;
     color: #fff;
-    font-size: 36px;
-    text-align: center;
+    font-size: 36px;    
     font-weight: 700;
     font-family: 'Open Sans', sans-serif;
     text-transform: uppercase;
@@ -72,6 +78,7 @@ nav {
 .Desc {
     font-size: 20px;
     text-align: left;
+    font-weight: 500;
     font-family: 'Open Sans', sans-serif;
 }
 
@@ -80,6 +87,7 @@ nav {
     color: #0057FF;
     text-transform: capitalize;
     text-align: center;
+    font-family: 'Open Sans', sans-serif;
 }
 
 footer {
