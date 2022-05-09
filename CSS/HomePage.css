@@ -54,6 +54,10 @@ table {
     height: 100px;
 }
 
+/* .LogoAlignment {
+text-align: center;
+} */
+
 .Title {
     text-align: center;
     width: 347px;
@@ -65,6 +69,17 @@ table {
     font-family: 'Open Sans', sans-serif;
     text-transform: uppercase;
     display: inline-block;
+}
+
+.TitleAlignment1 {
+    display: inline;
+    list-style-type: none;
+    
+
+}
+
+.TitleAlignment {
+    text-align: center;
 }
 
 .Post1 {
