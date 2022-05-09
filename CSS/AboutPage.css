@@ -1,0 +1,84 @@
+header {
+    background-color: #4C5578;
+}
+
+table {
+    width: 100%
+}
+
+.Links {
+    display: inline;
+    color: #fff;
+    text-decoration: none;
+    vertical-align: middle;
+
+}
+
+.NavBar {
+    display: inline-block;
+    color: #fff;
+    text-decoration: none;
+    vertical-align: middle;
+    font-size: 20px;
+    margin: 10px;
+    font-family: 'Open Sans', sans-serif;
+    padding-left: 20px;
+    padding-right: 20px;
+
+}
+
+.NavBar:hover {
+    font-size: 15px;
+    color: #6F90E4;
+}
+
+.NavBar:Active {
+    font-size: 18px;
+    color: #5887FF;
+}
+
+.Links1 {
+    text-align: center;
+}
+
+.Logo {
+    display: inline;
+    text-decoration: none;
+    float: left;
+    list-style-type: none;
+}
+
+.Logo1 {
+    padding-bottom: 300px;
+    width: 140px;
+    height: 100px;
+}
+
+
+
+.About {
+    font-family: 'Open Sans', sans-serif;
+    text-align: left;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.About1 {
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    font-weight: 600;
+    font-size: 96px;
+}
+
+.AboutPageLogo {
+    text-align: right;
+    width: 736px;
+    height: 723px;
+}
+
+footer {
+    background-color: #4C5578;
+    margin-top: 200px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
