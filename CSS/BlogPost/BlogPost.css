@@ -54,26 +54,16 @@ table {
     height: 100px;
 }
 
-
-
-.About {
+.title {
+    font-size: 50px;
     font-family: 'Open Sans', sans-serif;
-    text-align: left;
-    font-size: 24px;
+    font-weight: 700;
+}
+.Desc {
+    font-size: 20px;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 500;
-}
 
-.About1 {
-    font-family: 'Open Sans', sans-serif;
-    text-align: center;
-    font-weight: 600;
-    font-size: 96px;
-}
-
-.AboutPageLogo {
-    text-align: right;
-    width: 736px;
-    height: 723px;
 }
 
 footer {
